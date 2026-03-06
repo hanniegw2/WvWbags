@@ -4,5 +4,29 @@
     "paletteId": "Amethyst",
     "kineticFont": "default"
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "20260306-082545-qoxr",
+      "title": "Voiduss",
+      "commanders": [
+        "Voiduss"
+      ],
+      "dateStart": "2026-03-06T00:25:45.000Z",
+      "dateEnd": "2026-03-06T00:40:29.000Z",
+      "dateLabel": "3/6/2026, 8:25:45 AM - 3/6/2026, 8:40:29 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260306-082545-qoxr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 74
+      }
+    }
+  ]
 }
