@@ -1,0 +1,32 @@
+{
+  "siteTheme": {
+    "ui": "classic",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
+  },
+  "entries": [
+    {
+      "id": "20260306-205231-df91",
+      "title": "Kaooe",
+      "commanders": [
+        "Kaooe"
+      ],
+      "dateStart": "2026-03-06T12:52:31.000Z",
+      "dateEnd": "2026-03-06T12:58:35.000Z",
+      "dateLabel": "3/6/2026, 8:52:31 PM - 3/6/2026, 8:58:35 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260306-205231-df91",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 1,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 27
+      }
+    }
+  ]
+}
