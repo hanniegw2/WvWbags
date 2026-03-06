@@ -4,53 +4,5 @@
     "paletteId": "Amethyst",
     "kineticFont": "default"
   },
-  "entries": [
-    {
-      "id": "20260306-105230-fzwi",
-      "title": "Hànnie, Kaooe",
-      "commanders": [
-        "Hànnie",
-        "Kaooe"
-      ],
-      "dateStart": "2026-03-06T02:52:30.000Z",
-      "dateEnd": "2026-03-06T13:02:17.000Z",
-      "dateLabel": "3/6/2026, 10:52:30 AM - 3/6/2026, 9:02:17 PM",
-      "url": "https://hanniegw2.github.io/WvWbags/?report=20260306-105230-fzwi",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 3,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 17,
-        "avgEnemySize": 32
-      }
-    },
-    {
-      "id": "20260306-103157-yssf",
-      "title": "Hànnie",
-      "commanders": [
-        "Hànnie"
-      ],
-      "dateStart": "2026-03-06T02:31:57.000Z",
-      "dateEnd": "2026-03-06T02:55:55.000Z",
-      "dateLabel": "3/6/2026, 10:31:57 AM - 3/6/2026, 10:55:55 AM",
-      "url": "https://hanniegw2.github.io/WvWbags/?report=20260306-103157-yssf",
-      "summary": {
-        "borderlandsPct": 0,
-        "mapSlices": [
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 6,
-        "avgEnemySize": 56
-      }
-    }
-  ]
+  "entries": []
 }
