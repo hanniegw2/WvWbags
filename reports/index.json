@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260308-212550-6mtp",
+      "title": "Barty C Jr, Raspberry Monster",
+      "commanders": [
+        "Barty C Jr",
+        "Raspberry Monster"
+      ],
+      "dateStart": "2026-03-08T13:25:50.000Z",
+      "dateEnd": "2026-03-08T15:05:44.000Z",
+      "dateLabel": "3/8/2026, 9:25:50 PM - 3/8/2026, 11:05:44 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260308-212550-6mtp",
+      "summary": {
+        "borderlandsPct": 0.36363636363636365,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260304-100535-rirb",
       "title": "Lightspeed Jack",
       "commanders": [
