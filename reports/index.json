@@ -1,8 +1,32 @@
 {
   "siteTheme": {
     "ui": "classic",
-    "paletteId": "Amethyst",
+    "paletteId": "Aurora",
     "kineticFont": "default"
   },
-  "entries": []
+  "entries": [
+    {
+      "id": "20260304-100535-rirb",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-03-04T02:05:35.000Z",
+      "dateEnd": "2026-03-04T02:15:01.000Z",
+      "dateLabel": "3/4/2026, 10:05:35 AM - 3/4/2026, 10:15:01 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260304-100535-rirb",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 39
+      }
+    }
+  ]
 }
