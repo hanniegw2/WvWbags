@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260311-201858-14s9",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-03-11T12:18:58.000Z",
+      "dateEnd": "2026-03-11T13:57:48.000Z",
+      "dateLabel": "3/11/2026, 8:18:58 PM - 3/11/2026, 9:57:48 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260311-201858-14s9",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260310-194143-u5ks",
       "title": "Josh Atreides",
       "commanders": [
