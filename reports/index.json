@@ -1,139 +1,168 @@
-[
-  {
-    "id": "20260330-194136-nxts",
-    "title": "King Tarävangian, Sinaya Mirazha",
-    "commanders": [
-      "King Tarävangian",
-      "Sinaya Mirazha"
-    ],
-    "dateStart": "2026-03-30T11:41:36.000Z",
-    "dateEnd": "2026-03-30T14:01:22.000Z",
-    "dateLabel": "3/30/2026, 7:41:36 PM - 3/30/2026, 10:01:22 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260330-194136-nxts",
-    "summary": {
-      "borderlandsPct": 0.05263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260331-202130-w3wr",
+      "title": "Kale Edin, Pettefania, Sinaya Mirazha",
+      "commanders": [
+        "Kale Edin",
+        "Pettefania",
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260323-202139-38ey",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-03-23T12:21:39.000Z",
-    "dateEnd": "2026-03-23T13:38:13.000Z",
-    "dateLabel": "3/23/2026, 8:21:39 PM - 3/23/2026, 9:38:13 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260323-202139-38ey",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-31T12:21:30.000Z",
+      "dateEnd": "2026-03-31T14:16:57.000Z",
+      "dateLabel": "3/31/2026, 8:21:30 PM - 3/31/2026, 10:16:57 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260331-202130-w3wr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 29
+      }
+    },
+    {
+      "id": "20260330-194136-nxts",
+      "title": "King Tarävangian, Sinaya Mirazha",
+      "commanders": [
+        "King Tarävangian",
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260316-203538-o01g",
-    "title": "Josh Atreides, King Tarävangian",
-    "commanders": [
-      "Josh Atreides",
-      "King Tarävangian"
-    ],
-    "dateStart": "2026-03-16T12:35:38.000Z",
-    "dateEnd": "2026-03-16T14:25:25.000Z",
-    "dateLabel": "3/16/2026, 8:35:38 PM - 3/16/2026, 10:25:25 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260316-203538-o01g",
-    "summary": {
-      "borderlandsPct": 0.2857142857142857,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 20,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-30T11:41:36.000Z",
+      "dateEnd": "2026-03-30T14:01:22.000Z",
+      "dateLabel": "3/30/2026, 7:41:36 PM - 3/30/2026, 10:01:22 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260330-194136-nxts",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260323-202139-38ey",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 8
-    }
-  },
-  {
-    "id": "20260311-201858-h6vz",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-03-11T12:18:58.000Z",
-    "dateEnd": "2026-03-11T13:57:48.000Z",
-    "dateLabel": "3/11/2026, 8:18:58 PM - 3/11/2026, 9:57:48 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260311-201858-h6vz",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-23T12:21:39.000Z",
+      "dateEnd": "2026-03-23T13:38:13.000Z",
+      "dateLabel": "3/23/2026, 8:21:39 PM - 3/23/2026, 9:38:13 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260323-202139-38ey",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260316-203538-o01g",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260310-194143-u5ks",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-03-10T11:41:43.000Z",
-    "dateEnd": "2026-03-10T13:40:53.000Z",
-    "dateLabel": "3/10/2026, 7:41:43 PM - 3/10/2026, 9:40:53 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260310-194143-u5ks",
-    "summary": {
-      "borderlandsPct": 0.05263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-16T12:35:38.000Z",
+      "dateEnd": "2026-03-16T14:25:25.000Z",
+      "dateLabel": "3/16/2026, 8:35:38 PM - 3/16/2026, 10:25:25 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260316-203538-o01g",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 8
+      }
+    },
+    {
+      "id": "20260311-201858-h6vz",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 23
+      "dateStart": "2026-03-11T12:18:58.000Z",
+      "dateEnd": "2026-03-11T13:57:48.000Z",
+      "dateLabel": "3/11/2026, 8:18:58 PM - 3/11/2026, 9:57:48 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260311-201858-h6vz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260310-194143-u5ks",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-03-10T11:41:43.000Z",
+      "dateEnd": "2026-03-10T13:40:53.000Z",
+      "dateLabel": "3/10/2026, 7:41:43 PM - 3/10/2026, 9:40:53 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260310-194143-u5ks",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 23
+      }
     }
-  }
-]
+  ]
+}
