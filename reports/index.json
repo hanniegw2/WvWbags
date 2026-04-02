@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260402-210609-wp66",
+      "title": "Sinaya Mirazha",
+      "commanders": [
+        "Sinaya Mirazha"
+      ],
+      "dateStart": "2026-04-02T13:06:09.000Z",
+      "dateEnd": "2026-04-02T13:56:27.000Z",
+      "dateLabel": "4/2/2026, 9:06:09 PM - 4/2/2026, 9:56:27 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260402-210609-wp66",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 48
+      }
+    },
+    {
       "id": "20260402-022404-w1kc",
       "title": "Down Attunement",
       "commanders": [
