@@ -3,6 +3,35 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260404-230242-vc2e",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
+      ],
+      "dateStart": "2026-04-04T15:02:42.000Z",
+      "dateEnd": "2026-04-04T16:57:49.000Z",
+      "dateLabel": "4/4/2026, 11:02:42 PM - 4/5/2026, 12:57:49 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260404-230242-vc2e",
+      "summary": {
+        "borderlandsPct": 0.21052631578947367,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20260402-210609-wp66",
       "title": "Sinaya Mirazha",
       "commanders": [
