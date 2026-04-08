@@ -1,7 +1,31 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "violet-purple",
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260405-212039-m1k4",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
+      ],
+      "dateStart": "2026-04-05T13:20:39.000Z",
+      "dateEnd": "2026-04-05T14:12:25.000Z",
+      "dateLabel": "4/5/2026, 9:20:39 PM - 4/5/2026, 10:12:25 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260405-212039-m1k4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
     {
       "id": "20260405-212039-6tf3",
       "title": "Josh Atreides, King Tarävangian",
