@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-204735-h3v4",
+      "title": "Phyrex The Unhinged",
+      "commanders": [
+        "Phyrex The Unhinged"
+      ],
+      "dateStart": "2026-04-12T12:47:35.000Z",
+      "dateEnd": "2026-04-12T13:33:22.000Z",
+      "dateLabel": "4/12/2026, 8:47:35 PM - 4/12/2026, 9:33:22 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260412-204735-h3v4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260409-215008-zaly",
       "title": "Doü, Stone Catwall",
       "commanders": [
