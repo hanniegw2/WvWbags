@@ -1,7 +1,32 @@
 {
   "colorPalette": "violet-purple",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260504-195247-etrx",
+      "title": "Josh Atreides, Stone Catwall",
+      "commanders": [
+        "Josh Atreides",
+        "Stone Catwall"
+      ],
+      "dateStart": "2026-05-04T11:52:47.000Z",
+      "dateEnd": "2026-05-04T13:18:30.000Z",
+      "dateLabel": "5/4/2026, 7:52:47 PM - 5/4/2026, 9:18:30 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260504-195247-etrx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
     {
       "id": "20260429-184506-h509",
       "title": "Josh Atreides, King Tarävangian",
