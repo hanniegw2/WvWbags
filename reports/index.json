@@ -4,6 +4,32 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260507-215257-to0q",
+      "title": "Charmiiee, Down Attunement, Pettefania, Ysabelle Maeve",
+      "commanders": [
+        "Charmiiee",
+        "Down Attunement",
+        "Pettefania",
+        "Ysabelle Maeve"
+      ],
+      "dateStart": "2026-05-07T13:52:57.000Z",
+      "dateEnd": "2026-05-07T14:32:17.000Z",
+      "dateLabel": "5/7/2026, 9:52:57 PM - 5/7/2026, 10:32:17 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260507-215257-to0q",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 3,
+        "avgEnemySize": 6
+      }
+    },
+    {
       "id": "20260506-194914-hej4",
       "title": "Josh Atreides",
       "commanders": [
