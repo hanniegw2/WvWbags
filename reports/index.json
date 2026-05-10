@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-074233-wy0k",
+      "title": "Grimaldi",
+      "commanders": [
+        "Grimaldi"
+      ],
+      "dateStart": "2026-05-09T23:42:33.000Z",
+      "dateEnd": "2026-05-10T00:23:25.000Z",
+      "dateLabel": "5/10/2026, 7:42:33 AM - 5/10/2026, 8:23:25 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260510-074233-wy0k",
+      "summary": {
+        "borderlandsPct": 0.9259259259259259,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 31,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260507-215257-to0q",
       "title": "Charmiiee, Down Attunement, Pettefania, Ysabelle Maeve",
       "commanders": [
