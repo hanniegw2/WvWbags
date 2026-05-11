@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260511-081806-ounr",
+      "title": "No Fruit For You",
+      "commanders": [
+        "No Fruit For You"
+      ],
+      "dateStart": "2026-05-11T00:18:06.000Z",
+      "dateEnd": "2026-05-11T01:20:56.000Z",
+      "dateLabel": "5/11/2026, 8:18:06 AM - 5/11/2026, 9:20:56 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260511-081806-ounr",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 25
+      }
+    },
+    {
       "id": "20260510-074233-wy0k",
       "title": "Grimaldi",
       "commanders": [
