@@ -1,499 +1,532 @@
-[
-  {
-    "id": "20260506-194914-hej4",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-05-06T11:49:14.000Z",
-    "dateEnd": "2026-05-06T13:17:30.000Z",
-    "dateLabel": "5/6/2026, 7:49:14 PM - 5/6/2026, 9:17:30 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260506-194914-hej4",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        }
+{
+  "colorPalette": "violet-purple",
+  "glassSurfaces": true,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260518-202337-v8x7",
+      "title": "Stone Catwall",
+      "commanders": [
+        "Stone Catwall"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260504-195247-etrx",
-    "title": "Josh Atreides, Stone Catwall",
-    "commanders": [
-      "Josh Atreides",
-      "Stone Catwall"
-    ],
-    "dateStart": "2026-05-04T11:52:47.000Z",
-    "dateEnd": "2026-05-04T13:18:30.000Z",
-    "dateLabel": "5/4/2026, 7:52:47 PM - 5/4/2026, 9:18:30 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260504-195247-etrx",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 16,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-18T12:23:37.000Z",
+      "dateEnd": "2026-05-18T14:03:52.000Z",
+      "dateLabel": "5/18/2026, 8:23:37 PM - 5/18/2026, 10:03:52 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260518-202337-v8x7",
+      "summary": {
+        "borderlandsPct": 0.25,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 3,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 27
+      }
+    },
+    {
+      "id": "20260506-194914-hej4",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260429-184506-h509",
-    "title": "Josh Atreides, King Tarävangian",
-    "commanders": [
-      "Josh Atreides",
-      "King Tarävangian"
-    ],
-    "dateStart": "2026-04-29T10:45:06.000Z",
-    "dateEnd": "2026-04-29T11:32:29.000Z",
-    "dateLabel": "4/29/2026, 6:45:06 PM - 4/29/2026, 7:32:29 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260429-184506-h509",
-    "summary": {
-      "borderlandsPct": 0.13636363636363635,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 19,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-05-06T11:49:14.000Z",
+      "dateEnd": "2026-05-06T13:17:30.000Z",
+      "dateLabel": "5/6/2026, 7:49:14 PM - 5/6/2026, 9:17:30 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260506-194914-hej4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260504-195247-etrx",
+      "title": "Josh Atreides, Stone Catwall",
+      "commanders": [
+        "Josh Atreides",
+        "Stone Catwall"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 36
-    }
-  },
-  {
-    "id": "20260423-202048-y37a",
-    "title": "Stone Catwall",
-    "commanders": [
-      "Stone Catwall"
-    ],
-    "dateStart": "2026-04-23T12:20:48.000Z",
-    "dateEnd": "2026-04-23T13:48:48.000Z",
-    "dateLabel": "4/23/2026, 8:20:48 PM - 4/23/2026, 9:48:48 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260423-202048-y37a",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 12,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-05-04T11:52:47.000Z",
+      "dateEnd": "2026-05-04T13:18:30.000Z",
+      "dateLabel": "5/4/2026, 7:52:47 PM - 5/4/2026, 9:18:30 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260504-195247-etrx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 27
+      }
+    },
+    {
+      "id": "20260429-184506-h509",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
       ],
-      "avgSquadSize": 21,
-      "avgEnemySize": 17
-    }
-  },
-  {
-    "id": "20260412-204735-h3v4",
-    "title": "Phyrex The Unhinged",
-    "commanders": [
-      "Phyrex The Unhinged"
-    ],
-    "dateStart": "2026-04-12T12:47:35.000Z",
-    "dateEnd": "2026-04-12T13:33:22.000Z",
-    "dateLabel": "4/12/2026, 8:47:35 PM - 4/12/2026, 9:33:22 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260412-204735-h3v4",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-29T10:45:06.000Z",
+      "dateEnd": "2026-04-29T11:32:29.000Z",
+      "dateLabel": "4/29/2026, 6:45:06 PM - 4/29/2026, 7:32:29 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260429-184506-h509",
+      "summary": {
+        "borderlandsPct": 0.13636363636363635,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 36
+      }
+    },
+    {
+      "id": "20260423-202048-y37a",
+      "title": "Stone Catwall",
+      "commanders": [
+        "Stone Catwall"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260409-215008-zaly",
-    "title": "Doü, Stone Catwall",
-    "commanders": [
-      "Doü",
-      "Stone Catwall"
-    ],
-    "dateStart": "2026-04-09T13:50:08.000Z",
-    "dateEnd": "2026-04-09T15:02:53.000Z",
-    "dateLabel": "4/9/2026, 9:50:08 PM - 4/9/2026, 11:02:53 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260409-215008-zaly",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-23T12:20:48.000Z",
+      "dateEnd": "2026-04-23T13:48:48.000Z",
+      "dateLabel": "4/23/2026, 8:20:48 PM - 4/23/2026, 9:48:48 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260423-202048-y37a",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 12,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260412-204735-h3v4",
+      "title": "Phyrex The Unhinged",
+      "commanders": [
+        "Phyrex The Unhinged"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260408-213325-tmpj",
-    "title": "Down Attunement, Latirius Greed, Malupeat Bow, Phyrex The Unhinged, Stone Catwall",
-    "commanders": [
-      "Down Attunement",
-      "Latirius Greed",
-      "Malupeat Bow",
-      "Phyrex The Unhinged",
-      "Stone Catwall"
-    ],
-    "dateStart": "2026-04-08T13:33:25.000Z",
-    "dateEnd": "2026-04-08T14:08:47.000Z",
-    "dateLabel": "4/8/2026, 9:33:25 PM - 4/8/2026, 10:08:47 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260408-213325-tmpj",
-    "summary": {
-      "borderlandsPct": 0.037037037037037035,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 1,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-04-12T12:47:35.000Z",
+      "dateEnd": "2026-04-12T13:33:22.000Z",
+      "dateLabel": "4/12/2026, 8:47:35 PM - 4/12/2026, 9:33:22 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260412-204735-h3v4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260409-215008-zaly",
+      "title": "Doü, Stone Catwall",
+      "commanders": [
+        "Doü",
+        "Stone Catwall"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 37
-    }
-  },
-  {
-    "id": "20260405-212039-m1k4",
-    "title": "Josh Atreides, King Tarävangian",
-    "commanders": [
-      "Josh Atreides",
-      "King Tarävangian"
-    ],
-    "dateStart": "2026-04-05T13:20:39.000Z",
-    "dateEnd": "2026-04-05T14:12:25.000Z",
-    "dateLabel": "4/5/2026, 9:20:39 PM - 4/5/2026, 10:12:25 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260405-212039-m1k4",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-09T13:50:08.000Z",
+      "dateEnd": "2026-04-09T15:02:53.000Z",
+      "dateLabel": "4/9/2026, 9:50:08 PM - 4/9/2026, 11:02:53 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260409-215008-zaly",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260408-213325-tmpj",
+      "title": "Down Attunement, Latirius Greed, Malupeat Bow, Phyrex The Unhinged, Stone Catwall",
+      "commanders": [
+        "Down Attunement",
+        "Latirius Greed",
+        "Malupeat Bow",
+        "Phyrex The Unhinged",
+        "Stone Catwall"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260404-230242-vc2e",
-    "title": "Josh Atreides, King Tarävangian",
-    "commanders": [
-      "Josh Atreides",
-      "King Tarävangian"
-    ],
-    "dateStart": "2026-04-04T15:02:42.000Z",
-    "dateEnd": "2026-04-04T16:57:49.000Z",
-    "dateLabel": "4/4/2026, 11:02:42 PM - 4/5/2026, 12:57:49 AM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260404-230242-vc2e",
-    "summary": {
-      "borderlandsPct": 0.21052631578947367,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 4,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-04-08T13:33:25.000Z",
+      "dateEnd": "2026-04-08T14:08:47.000Z",
+      "dateLabel": "4/8/2026, 9:33:25 PM - 4/8/2026, 10:08:47 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260408-213325-tmpj",
+      "summary": {
+        "borderlandsPct": 0.037037037037037035,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 37
+      }
+    },
+    {
+      "id": "20260405-212039-m1k4",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260402-210609-wp66",
-    "title": "Sinaya Mirazha",
-    "commanders": [
-      "Sinaya Mirazha"
-    ],
-    "dateStart": "2026-04-02T13:06:09.000Z",
-    "dateEnd": "2026-04-02T13:56:27.000Z",
-    "dateLabel": "4/2/2026, 9:06:09 PM - 4/2/2026, 9:56:27 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260402-210609-wp66",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 7,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-05T13:20:39.000Z",
+      "dateEnd": "2026-04-05T14:12:25.000Z",
+      "dateLabel": "4/5/2026, 9:20:39 PM - 4/5/2026, 10:12:25 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260405-212039-m1k4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260404-230242-vc2e",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 48
-    }
-  },
-  {
-    "id": "20260402-022404-w1kc",
-    "title": "Down Attunement",
-    "commanders": [
-      "Down Attunement"
-    ],
-    "dateStart": "2026-04-01T18:24:04.000Z",
-    "dateEnd": "2026-04-01T20:12:34.000Z",
-    "dateLabel": "4/2/2026, 2:24:04 AM - 4/2/2026, 4:12:34 AM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260402-022404-w1kc",
-    "summary": {
-      "borderlandsPct": 0.4230769230769231,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 15,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 11,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-04-04T15:02:42.000Z",
+      "dateEnd": "2026-04-04T16:57:49.000Z",
+      "dateLabel": "4/4/2026, 11:02:42 PM - 4/5/2026, 12:57:49 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260404-230242-vc2e",
+      "summary": {
+        "borderlandsPct": 0.21052631578947367,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260402-210609-wp66",
+      "title": "Sinaya Mirazha",
+      "commanders": [
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 6,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260401-204301-sgno",
-    "title": "Sinaya Mirazha",
-    "commanders": [
-      "Sinaya Mirazha"
-    ],
-    "dateStart": "2026-04-01T12:43:01.000Z",
-    "dateEnd": "2026-04-01T14:36:02.000Z",
-    "dateLabel": "4/1/2026, 8:43:01 PM - 4/1/2026, 10:36:02 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260401-204301-sgno",
-    "summary": {
-      "borderlandsPct": 0.043478260869565216,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-04-02T13:06:09.000Z",
+      "dateEnd": "2026-04-02T13:56:27.000Z",
+      "dateLabel": "4/2/2026, 9:06:09 PM - 4/2/2026, 9:56:27 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260402-210609-wp66",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 7,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 48
+      }
+    },
+    {
+      "id": "20260402-022404-w1kc",
+      "title": "Down Attunement",
+      "commanders": [
+        "Down Attunement"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 27
-    }
-  },
-  {
-    "id": "20260331-202130-han3",
-    "title": "Kale Edin, Pettefania, Sinaya Mirazha",
-    "commanders": [
-      "Kale Edin",
-      "Pettefania",
-      "Sinaya Mirazha"
-    ],
-    "dateStart": "2026-03-31T12:21:30.000Z",
-    "dateEnd": "2026-03-31T14:16:57.000Z",
-    "dateLabel": "3/31/2026, 8:21:30 PM - 3/31/2026, 10:16:57 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260331-202130-han3",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-01T18:24:04.000Z",
+      "dateEnd": "2026-04-01T20:12:34.000Z",
+      "dateLabel": "4/2/2026, 2:24:04 AM - 4/2/2026, 4:12:34 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260402-022404-w1kc",
+      "summary": {
+        "borderlandsPct": 0.4230769230769231,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 15,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 11,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 6,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260401-204301-sgno",
+      "title": "Sinaya Mirazha",
+      "commanders": [
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260331-202130-wnni",
-    "title": "Kale Edin, Pettefania, Sinaya Mirazha",
-    "commanders": [
-      "Kale Edin",
-      "Pettefania",
-      "Sinaya Mirazha"
-    ],
-    "dateStart": "2026-03-31T12:21:30.000Z",
-    "dateEnd": "2026-03-31T14:16:57.000Z",
-    "dateLabel": "3/31/2026, 8:21:30 PM - 3/31/2026, 10:16:57 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260331-202130-wnni",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 26,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-04-01T12:43:01.000Z",
+      "dateEnd": "2026-04-01T14:36:02.000Z",
+      "dateLabel": "4/1/2026, 8:43:01 PM - 4/1/2026, 10:36:02 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260401-204301-sgno",
+      "summary": {
+        "borderlandsPct": 0.043478260869565216,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 27
+      }
+    },
+    {
+      "id": "20260331-202130-han3",
+      "title": "Kale Edin, Pettefania, Sinaya Mirazha",
+      "commanders": [
+        "Kale Edin",
+        "Pettefania",
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 20,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260330-194136-nxts",
-    "title": "King Tarävangian, Sinaya Mirazha",
-    "commanders": [
-      "King Tarävangian",
-      "Sinaya Mirazha"
-    ],
-    "dateStart": "2026-03-30T11:41:36.000Z",
-    "dateEnd": "2026-03-30T14:01:22.000Z",
-    "dateLabel": "3/30/2026, 7:41:36 PM - 3/30/2026, 10:01:22 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260330-194136-nxts",
-    "summary": {
-      "borderlandsPct": 0.05263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-31T12:21:30.000Z",
+      "dateEnd": "2026-03-31T14:16:57.000Z",
+      "dateLabel": "3/31/2026, 8:21:30 PM - 3/31/2026, 10:16:57 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260331-202130-han3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260331-202130-wnni",
+      "title": "Kale Edin, Pettefania, Sinaya Mirazha",
+      "commanders": [
+        "Kale Edin",
+        "Pettefania",
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260323-202139-38ey",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-03-23T12:21:39.000Z",
-    "dateEnd": "2026-03-23T13:38:13.000Z",
-    "dateLabel": "3/23/2026, 8:21:39 PM - 3/23/2026, 9:38:13 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260323-202139-38ey",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 13,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-31T12:21:30.000Z",
+      "dateEnd": "2026-03-31T14:16:57.000Z",
+      "dateLabel": "3/31/2026, 8:21:30 PM - 3/31/2026, 10:16:57 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260331-202130-wnni",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260330-194136-nxts",
+      "title": "King Tarävangian, Sinaya Mirazha",
+      "commanders": [
+        "King Tarävangian",
+        "Sinaya Mirazha"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260316-203538-o01g",
-    "title": "Josh Atreides, King Tarävangian",
-    "commanders": [
-      "Josh Atreides",
-      "King Tarävangian"
-    ],
-    "dateStart": "2026-03-16T12:35:38.000Z",
-    "dateEnd": "2026-03-16T14:25:25.000Z",
-    "dateLabel": "3/16/2026, 8:35:38 PM - 3/16/2026, 10:25:25 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260316-203538-o01g",
-    "summary": {
-      "borderlandsPct": 0.2857142857142857,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 20,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 5,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 3,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-30T11:41:36.000Z",
+      "dateEnd": "2026-03-30T14:01:22.000Z",
+      "dateLabel": "3/30/2026, 7:41:36 PM - 3/30/2026, 10:01:22 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260330-194136-nxts",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260323-202139-38ey",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
       ],
-      "avgSquadSize": 17,
-      "avgEnemySize": 8
-    }
-  },
-  {
-    "id": "20260311-201858-h6vz",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-03-11T12:18:58.000Z",
-    "dateEnd": "2026-03-11T13:57:48.000Z",
-    "dateLabel": "3/11/2026, 8:18:58 PM - 3/11/2026, 9:57:48 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260311-201858-h6vz",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 22,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-03-23T12:21:39.000Z",
+      "dateEnd": "2026-03-23T13:38:13.000Z",
+      "dateLabel": "3/23/2026, 8:21:39 PM - 3/23/2026, 9:38:13 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260323-202139-38ey",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260316-203538-o01g",
+      "title": "Josh Atreides, King Tarävangian",
+      "commanders": [
+        "Josh Atreides",
+        "King Tarävangian"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260310-194143-u5ks",
-    "title": "Josh Atreides",
-    "commanders": [
-      "Josh Atreides"
-    ],
-    "dateStart": "2026-03-10T11:41:43.000Z",
-    "dateEnd": "2026-03-10T13:40:53.000Z",
-    "dateLabel": "3/10/2026, 7:41:43 PM - 3/10/2026, 9:40:53 PM",
-    "url": "https://hanniegw2.github.io/WvWbags/?report=20260310-194143-u5ks",
-    "summary": {
-      "borderlandsPct": 0.05263157894736842,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 18,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 1,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-16T12:35:38.000Z",
+      "dateEnd": "2026-03-16T14:25:25.000Z",
+      "dateLabel": "3/16/2026, 8:35:38 PM - 3/16/2026, 10:25:25 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260316-203538-o01g",
+      "summary": {
+        "borderlandsPct": 0.2857142857142857,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 8
+      }
+    },
+    {
+      "id": "20260311-201858-h6vz",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
       ],
-      "avgSquadSize": 13,
-      "avgEnemySize": 23
+      "dateStart": "2026-03-11T12:18:58.000Z",
+      "dateEnd": "2026-03-11T13:57:48.000Z",
+      "dateLabel": "3/11/2026, 8:18:58 PM - 3/11/2026, 9:57:48 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260311-201858-h6vz",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260310-194143-u5ks",
+      "title": "Josh Atreides",
+      "commanders": [
+        "Josh Atreides"
+      ],
+      "dateStart": "2026-03-10T11:41:43.000Z",
+      "dateEnd": "2026-03-10T13:40:53.000Z",
+      "dateLabel": "3/10/2026, 7:41:43 PM - 3/10/2026, 9:40:53 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260310-194143-u5ks",
+      "summary": {
+        "borderlandsPct": 0.05263157894736842,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 1,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 13,
+        "avgEnemySize": 23
+      }
     }
-  }
-]
+  ]
+}
