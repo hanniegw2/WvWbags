@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260525-210342-ye3j",
+      "title": "Stone Catwall",
+      "commanders": [
+        "Stone Catwall"
+      ],
+      "dateStart": "2026-05-25T13:03:42.000Z",
+      "dateEnd": "2026-05-25T14:10:50.000Z",
+      "dateLabel": "5/25/2026, 9:03:42 PM - 5/25/2026, 10:10:50 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260525-210342-ye3j",
+      "summary": {
+        "borderlandsPct": 0.045454545454545456,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260518-202337-v8x7",
       "title": "Stone Catwall",
       "commanders": [
