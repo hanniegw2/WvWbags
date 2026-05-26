@@ -4,6 +4,30 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260526-202156-658l",
+      "title": "Hânnie, Joshua Atreides",
+      "commanders": [
+        "Hânnie",
+        "Joshua Atreides"
+      ],
+      "dateStart": "2026-05-26T12:21:56.000Z",
+      "dateEnd": "2026-05-26T14:25:06.000Z",
+      "dateLabel": "5/26/2026, 8:21:56 PM - 5/26/2026, 10:25:06 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260526-202156-658l",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 20,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260525-210342-ye3j",
       "title": "Stone Catwall",
       "commanders": [
