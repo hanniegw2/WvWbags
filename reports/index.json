@@ -4,6 +4,27 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260531-233416-w7gq",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-05-31T15:34:16.000Z",
+      "dateEnd": "2026-05-31T16:19:20.000Z",
+      "dateLabel": "5/31/2026, 11:34:16 PM - 6/1/2026, 12:19:20 AM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260531-233416-w7gq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 51,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260526-202156-658l",
       "title": "Hânnie, Joshua Atreides",
       "commanders": [
