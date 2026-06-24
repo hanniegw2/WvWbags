@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-214609-dmyx",
+      "title": "S A L T E D Egggggg",
+      "commanders": [
+        "S A L T E D Egggggg"
+      ],
+      "dateStart": "2026-06-24T13:46:09.000Z",
+      "dateEnd": "2026-06-24T14:53:38.000Z",
+      "dateLabel": "6/24/2026, 9:46:09 PM - 6/24/2026, 10:53:38 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260624-214609-dmyx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 20,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260624-214204-3uzv",
       "title": "Josh Atreides, S A L T E D Egggggg",
       "commanders": [
