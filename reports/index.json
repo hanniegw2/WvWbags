@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260624-220617-zktt",
+      "title": "S A L T E D Egggggg",
+      "commanders": [
+        "S A L T E D Egggggg"
+      ],
+      "dateStart": "2026-06-24T14:06:17.000Z",
+      "dateEnd": "2026-06-24T15:02:54.000Z",
+      "dateLabel": "6/24/2026, 10:06:17 PM - 6/24/2026, 11:02:54 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260624-220617-zktt",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 31,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260616-204956-fqh7",
       "title": "Enrique Roddriguez, Gillette Dull Blade, Josh Atreides, Kale Edin",
       "commanders": [
