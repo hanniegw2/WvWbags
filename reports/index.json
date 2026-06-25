@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260625-213710-0jix",
+      "title": "Enrique Roddriguez",
+      "commanders": [
+        "Enrique Roddriguez"
+      ],
+      "dateStart": "2026-06-25T13:37:10.000Z",
+      "dateEnd": "2026-06-25T14:55:39.000Z",
+      "dateLabel": "6/25/2026, 9:37:10 PM - 6/25/2026, 10:55:39 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260625-213710-0jix",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 26
+      }
+    },
+    {
       "id": "20260624-214609-ujrd",
       "title": "S A L T E D Egggggg",
       "commanders": [
