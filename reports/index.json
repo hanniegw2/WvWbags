@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-212343-8rwy",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-11T13:23:43.000Z",
+      "dateEnd": "2026-07-11T14:57:35.000Z",
+      "dateLabel": "7/11/2026, 9:23:43 PM - 7/11/2026, 10:57:35 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260711-212343-8rwy",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 58
+      }
+    },
+    {
       "id": "20260706-211315-fmkb",
       "title": "Dodong Pagibig",
       "commanders": [
