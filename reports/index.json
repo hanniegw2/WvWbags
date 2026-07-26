@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260726-205732-84t7",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "dateStart": "2026-07-26T12:57:32.000Z",
+      "dateEnd": "2026-07-26T13:59:49.000Z",
+      "dateLabel": "7/26/2026, 8:57:32 PM - 7/26/2026, 9:59:49 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260726-205732-84t7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260714-213146-tkmx",
       "title": "Josh Atreides, King Tarävangian",
       "commanders": [
