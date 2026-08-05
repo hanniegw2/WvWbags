@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260805-211431-85nn",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-08-05T13:14:31.000Z",
+      "dateEnd": "2026-08-05T14:34:38.000Z",
+      "dateLabel": "8/5/2026, 9:14:31 PM - 8/5/2026, 10:34:38 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260805-211431-85nn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260727-212501-rt6m",
       "title": "Kingofcharrs",
       "commanders": [
