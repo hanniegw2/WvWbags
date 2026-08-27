@@ -4,6 +4,35 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260827-210502-e5yq",
+      "title": "Josh Atreides, Kingofmesmers",
+      "commanders": [
+        "Josh Atreides",
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "2221D6A0-2D88-F111-BB22-1249AB9AC125",
+        "name": "North Korean Special Force",
+        "tag": "NKSF"
+      },
+      "dateStart": "2026-08-27T13:05:02.000Z",
+      "dateEnd": "2026-08-27T14:28:45.715Z",
+      "dateLabel": "8/27/2026, 9:05:02 PM - 8/27/2026, 10:28:45 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260827-210502-e5yq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 28,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260822-211315-ww61",
       "title": "Follow This Tag",
       "commanders": [
