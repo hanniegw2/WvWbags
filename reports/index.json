@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260903-214124-jk72",
+      "title": "Kingofmesmers",
+      "commanders": [
+        "Kingofmesmers"
+      ],
+      "guild": {
+        "id": "55B75E98-8FD8-EE11-BA1F-12061042B485",
+        "name": "Cärrot Färm",
+        "tag": "Buni"
+      },
+      "dateStart": "2026-09-03T13:41:24.000Z",
+      "dateEnd": "2026-09-03T14:31:53.804Z",
+      "dateLabel": "9/3/2026, 9:41:24 PM - 9/3/2026, 10:31:53 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20260903-214124-jk72",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 24,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260827-210502-e5yq",
       "title": "Josh Atreides, Kingofmesmers",
       "commanders": [
