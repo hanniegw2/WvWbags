@@ -1,8 +1,42 @@
 {
   "colorPalette": "violet-purple",
-  "glassSurfaces": true,
-  "glassmorphic": false,
+  "axiTheme": "default",
+  "glass": false,
+  "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.1"
+  },
   "entries": [
+    {
+      "id": "20261006-212629-l895",
+      "title": "Operator Smeoxe",
+      "commanders": [
+        "Operator Smeoxe"
+      ],
+      "guild": {
+        "id": "D68FDD21-DB39-EE11-8465-0228F2FB5E53",
+        "name": "Cafe Latte",
+        "tag": "KOHI"
+      },
+      "dateStart": "2026-10-06T13:26:29.000Z",
+      "dateEnd": "2026-10-06T13:57:13.031Z",
+      "dateLabel": "10/6/2026, 9:26:29 PM - 10/6/2026, 9:57:13 PM",
+      "url": "https://hanniegw2.github.io/WvWbags/?report=20261006-212629-l895",
+      "publishedBy": "hanniegw2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 17
+      }
+    },
     {
       "id": "20260903-214124-jk72",
       "title": "Kingofmesmers",
